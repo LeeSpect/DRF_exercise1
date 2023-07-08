@@ -31,7 +31,7 @@ SECRET_KEY = "django-insecure-s55-bxwbx!$&vvw!dhnrtof2gi6qz*i%bb1gl1a)2ur7+sd9t=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['port-0-drf-exercise1-20zynm2mljmm4yrc.sel4.cloudtype.app', '127.0.0.1']
 
 
 # Application definition
@@ -181,5 +181,3 @@ REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS' : 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE' : 5,
 }
-
-ALLOWED_HOSTS = ['port-0-drf-exercise1-20zynm2mljmm4yrc.sel4.cloudtype.app', '127.0.0.1']
