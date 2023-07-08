@@ -182,4 +182,4 @@ REST_FRAMEWORK = {
     'PAGE_SIZE' : 5,
 }
 
-ALLOWED_HOSTS = ['port-0-hufs11thdrf-p8xrq2mlfri23qy.sel3.cloudtype.app', '127.0.0.1']
+ALLOWED_HOSTS = ['https://port-0-drf-exercise1-20zynm2mljmm4yrc.sel4.cloudtype.app/', '127.0.0.1']
