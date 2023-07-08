@@ -181,3 +181,5 @@ REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS' : 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE' : 5,
 }
+
+ALLOWED_HOSTS = ['port-0-hufs11thdrf-p8xrq2mlfri23qy.sel3.cloudtype.app', '127.0.0.1']
