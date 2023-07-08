@@ -1,5 +1,6 @@
 # DRF_exercise1
 
+### API 명세: https://www.notion.so/API-d9725863f47a423cb0b47cdcf1ffe743
 
 추가
 
