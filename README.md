@@ -1,6 +1,6 @@
 # DRF_exercise1
 
-### API 명세: [[https://www.notion.so/API-d9725863f47a423cb0b47cdcf1ffe743](https://www.notion.so/API-d9725863f47a423cb0b47cdcf1ffe743?pvs=4)](https://pepper-click-502.notion.site/API-d9725863f47a423cb0b47cdcf1ffe743?pvs=4)
+### API 명세: https://pepper-click-502.notion.site/API-d9725863f47a423cb0b47cdcf1ffe743?pvs=4
 
 추가
 
