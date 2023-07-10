@@ -21,7 +21,7 @@ SIMPLE_JWT = {
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-CSRF_TRUSTED_ORIGINS = ['http://port-0-drf-exercise1-20zynm2mljmm4yrc.sel4.cloudtype.app']
+CSRF_TRUSTED_ORIGINS = ['https://port-0-drf-exercise1-20zynm2mljmm4yrc.sel4.cloudtype.app']
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
