@@ -10,6 +10,8 @@ class BoardsSerializer(serializers.ModelSerializer):
 
 
 class CommentSerializer(serializers.ModelSerializer):
+    user = serializers.ReadOnlyField(source='user.username')
+
     class Meta:
         model = Comment
         fields = ['id', 'post', 'user', 'created_at', 'comment']
